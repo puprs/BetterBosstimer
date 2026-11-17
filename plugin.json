@@ -1,0 +1,13 @@
+{
+  "name": "Better Boss Timer",
+  "version": "1.0.0",
+  "contactEmailAddress": "puppyrs21@gmail.com",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": false,
+  "requiredDependencies": {
+  },
+  "optionalDependencies": {},
+  "requiredPermissions": [
+        "chatAccess"
+    ]
+}
